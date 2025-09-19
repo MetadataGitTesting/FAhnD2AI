@@ -1,0 +1,58 @@
+name: tyree.pouros
+description: Expanded
+version: 5.6.772
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: tyreepouros
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:28:02'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:28:02'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:28:02.089166Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '459916698'
+  createdAt: '2025-09-19T23:28:02.089166Z'
+  type: plibMaven
+projectDependencies:
+  '155':
+    projectUID: 155
+    projectName: nichole.schultz
+    repositoryPath: gitUri=http://gitserver:3000/dev_wBnAShdM_team_356/dev_wBnAShdM_project_155.git&subPath=
+    version: nichole.schultz/0.73.474
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:27:59'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
